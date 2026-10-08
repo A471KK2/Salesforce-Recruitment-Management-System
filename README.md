@@ -90,31 +90,31 @@ Job Posting, and Review.
 ![Recruiting Schema Diagram](Screenshot/01-recruiting-app%20schema%20diagram.png)
 
 ### Position Tab
-![Position Tab](Screenshot/03-position-tab.png)
+![Position Tab](Screenshot/02-recruiting-app%20position%20tab.png)
 
 ### Custom Objects
-![Custom Objects](Screenshot/04-custom-objects.png)
+![Custom Objects](Screenshot/03-recruiting-app%20Custom%20objects.png)
 
 ### Associated Profiles
-![Associated Profiles](Screenshot/05-associated-profiles.png)
+![Associated Profiles](04-recruiting-app%20associated%20Profiles.png)
 
 ### Validation Rules
-![Validation Rules](Screenshot/06-validation-rules.png)
+![Validation Rules](05-recruiting-app%20associated%20Validation%20Rules.png)
 
 ### Candidate Tab
-![Candidate Tab](Screenshot/07-candidate-tab.png)
+![Candidate Tab](06-recruiting-app%20Candidate%20Tab.png)
 
 ### Job Application Tab
-![Job Application Tab](Screenshot/08-job-application-tab.png)
+![Job Application Tab](07-recruiting-app%20Job%20Application%20Tab.png)
 
 ### Employment Website Tab
-![Employment Website Tab](Screenshot/09-employment-website-tab.png)
+![Employment Website Tab](08-recruiting-app%20Employment%20Website%20Tab.png)
 
 ### Job Posting Tab
-![Job Posting Tab](Screenshot/10-job-posting-tab.png)
+![Job Posting Tab](09-recruiting-app%20Job%20Positing%20Tab.png)
 
 ### Review Tab
-![Review Tab](Screenshot/11-review-tab.png)
+![Review Tab](10-recruiting-app%20Review%20Tab.png)
 
 ## Current Scope
 
