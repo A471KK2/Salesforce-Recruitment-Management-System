@@ -96,25 +96,25 @@ Job Posting, and Review.
 ![Custom Objects](Screenshot/03-recruiting-app%20Custom%20objects.png)
 
 ### Associated Profiles
-![Associated Profiles](04-recruiting-app%20associated%20Profiles.png)
+![Associated Profiles](Screenshot/04-recruiting-app%20associated%20Profiles.png)
 
 ### Validation Rules
-![Validation Rules](05-recruiting-app%20associated%20Validation%20Rules.png)
+![Validation Rules](Screenshot/05-recruiting-app%20associated%20Validation%20Rules.png)
 
 ### Candidate Tab
-![Candidate Tab](06-recruiting-app%20Candidate%20Tab.png)
+![Candidate Tab](Screenshot/06-recruiting-app%20Candidate%20Tab.png)
 
 ### Job Application Tab
-![Job Application Tab](07-recruiting-app%20Job%20Application%20Tab.png)
+![Job Application Tab](Screenshot/07-recruiting-app%20Job%20Application%20Tab.png)
 
 ### Employment Website Tab
-![Employment Website Tab](08-recruiting-app%20Employment%20Website%20Tab.png)
+![Employment Website Tab](Screenshot/08-recruiting-app%20Employment%20Website%20Tab.png)
 
 ### Job Posting Tab
-![Job Posting Tab](09-recruiting-app%20Job%20Positing%20Tab.png)
+![Job Posting Tab](Screenshot/09-recruiting-app%20Job%20Positing%20Tab.png)
 
 ### Review Tab
-![Review Tab](10-recruiting-app%20Review%20Tab.png)
+![Review Tab](Screenshot/10-recruiting-app%20Review%20Tab.png)
 
 ## Current Scope
 
