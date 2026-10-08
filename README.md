@@ -86,11 +86,8 @@ Job Posting, and Review.
 
 ## Screenshots
 
-### Recruiting Application
-![Recruiting Application](Screenshot/01-recruiting-app.png)
-
 ### Schema Diagram
-![Recruiting Schema Diagram](Screenshot/02-schema-diagram.png)
+![Recruiting Schema Diagram](Screenshot/01-recruiting-app%20schema%20diagram.png)
 
 ### Position Tab
 ![Position Tab](Screenshot/03-position-tab.png)
